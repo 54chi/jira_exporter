@@ -1,0 +1,5 @@
+*.pyc
+*.swp
+jiraconfig.py
+venv/
+*.MD
