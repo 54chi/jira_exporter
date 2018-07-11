@@ -1,7 +1,7 @@
 # JIRA EXPORT
 ## Query: project = PROJ and type = Epic
 
-* PROJ-482(Done):ABI Phase 2 Features and Defects
+* PROJ-482(Done): Phase 2 Features and Defects
     * DESCRIPTION:
   
         > Generic Epic placeholder for now.  Might be broken up into more granular epics based on number of stories defined.
