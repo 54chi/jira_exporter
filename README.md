@@ -22,7 +22,7 @@ Features:
 1. `. venv/scripts/activate`
 1. `pip install --requirement=requirements.txt`
 1. EDIT `jiraconfig.py` (you can use jiraconfig-sample.py as example)
-1. ./export-jira.py list_projects # for testing, will print available projects
+1. Call `./export-jira.py list_projects` to test your settings are working (this will print available projects)
 
 JIRA server configuration is picked up from `jiraconfig.py`.
 
